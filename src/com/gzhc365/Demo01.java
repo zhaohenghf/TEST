@@ -6,7 +6,7 @@ public class Demo01 {
 		int a = 4;
 		System.out.println("jjjjj");
 		int g = 8;
-		
+		System.out.println("oooo");
 		System.out.println("iiii");
 	}
 
