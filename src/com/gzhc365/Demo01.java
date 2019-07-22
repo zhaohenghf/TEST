@@ -5,7 +5,7 @@ public class Demo01 {
 		int i = 8;
 		System.out.println("jjjjj");
 llll
-System.out.println(9);
+int a = 8;
 	}
 
 }
