@@ -15,4 +15,5 @@ public class Demo01 {
 
 	int a = 9;
 	double x = 9.0;
+	int g = 99;
 }
