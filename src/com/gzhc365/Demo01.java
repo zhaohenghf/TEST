@@ -11,5 +11,6 @@ public class Demo01 {
 
 		System.out.println("iiii");
 		System.out.println("jjjjjjjjjjjjjjjjjjjjjjj");
+		int x = 900;
 	}
 }
