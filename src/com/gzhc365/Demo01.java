@@ -14,4 +14,5 @@ public class Demo01 {
 	}
 
 	int a = 9;
+	int g = 99;
 }
