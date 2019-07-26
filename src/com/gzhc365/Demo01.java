@@ -12,8 +12,4 @@ public class Demo01 {
 		System.out.println("iiii");
 		System.out.println("jjjjjjjjjjjjjjjjjjjjjjj");
 	}
-
-	int a = 9;
-	double x = 9.0;
-	int g = 99;
 }
