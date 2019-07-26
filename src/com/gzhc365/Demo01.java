@@ -13,4 +13,5 @@ public class Demo01 {
 		System.out.println("jjjjjjjjjjjjjjjjjjjjjjj");
 	}
 
+	int a = 9;
 }
